@@ -5,6 +5,10 @@ https://www.hackers-arise.com/post/2016/10/21/digital-forensics-part-5-analyzing
 
 Aim is to save the time and efforts needed to go through all those keys for information.
 
+Better to run Powershell as admin for execution
+
+Also set execution policy to unrestricted or bypass to allow the script to get executed.
+
 Right now, the script fetches output for:
 
 Wireless Access Points
