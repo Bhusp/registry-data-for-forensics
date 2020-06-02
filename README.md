@@ -3,6 +3,8 @@ An attempt to automate the process of fetching information from registry keys th
 The script utilises the knowledge shared here:
 https://www.hackers-arise.com/post/2016/10/21/digital-forensics-part-5-analyzing-the-windows-registry-for-evidence
 
+Aim is to save the time and efforts needed to go through all those keys for information.
+
 Right now, the script fetches output for:
 
 Wireless Access Points
