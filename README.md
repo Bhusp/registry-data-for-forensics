@@ -5,7 +5,7 @@ The script utilises the knowledge shared here: [Digital Forensics, Part 5: Analy
 
 Aim is to save the time and efforts needed to go through all those keys for information.
 
-_Better to run Powershell as admin & set execution policy to unrestricted or bypass to allow the script to get executed_
+***Better to run Powershell as admin & set execution policy to unrestricted or bypass to allow the script to get executed***
 
 ### Right now, the script fetches output for:
 - Wireless Access Points
