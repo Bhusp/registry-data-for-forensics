@@ -18,5 +18,5 @@ Aim is to save the time and efforts needed to go through all those keys for info
 - Recent Documents Information
 
 ### To-Do
-- [x] Support for some special characters
+- [ ] Support for some special characters
 - [ ] Inclusion of Sysinternals tools for more data 
